@@ -1,38 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="edb3737a-a481-49fe-a9b7-6e212c3e537d" name="Changes" comment="" />
+    <list default="true" id="be07722a-c283-4668-a434-8a88c1e8b8c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/sae/src/ConfigLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sae/src/DirectoryListing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sae/src/DynamicCodeProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sae/src/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sae/src/MimeTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sae/src/SiteConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sae/src/StatusPage.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="11" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
-  <component name="ProjectId" id="3ErCm4rNEsNA9wJ2E65nh0Sn6Hr" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pana-ruth&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:BrangerMatheo/sae2.03-programmation-d-un-serveur-web-configurable.git&quot;,
+    &quot;accountId&quot;: &quot;48942bca-3cc9-47ff-aedc-151ab85c28d0&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000710081416286" />
+      <entry key="S2" value="1.1031977217365803" />
+      <entry key="S5" value="1.5517540418289588" />
+      <entry key="S10" value="2.028964977100597" />
+      <entry key="S30" value="2.594936809528221" />
+      <entry key="S60" value="2.7849449245821143" />
+      <entry key="M2" value="2.889483810869706" />
+      <entry key="M5" value="3.017851752753867" />
+      <entry key="M10" value="3.33224334129852" />
+      <entry key="M15" value="3.6164308274799284" />
+      <entry key="M30" value="4.116300251288421" />
+      <entry key="H1" value="4.495454992276728" />
+      <entry key="H2" value="4.729717635949806" />
+      <entry key="H4" value="4.860026202211893" />
+      <entry key="D1" value="4.975969835195321" />
+      <entry key="W1" value="4.996549541795022" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.4355531123966298E-226" />
+      <entry key="S5" value="5.683803326828809E-91" />
+      <entry key="S10" value="7.539100295677734E-46" />
+      <entry key="S30" value="9.10136448390958E-16" />
+      <entry key="S60" value="3.016846778328257E-8" />
+      <entry key="M2" value="1.736907245171214E-4" />
+      <entry key="M5" value="0.031326411660556344" />
+      <entry key="M10" value="0.17699268815563074" />
+      <entry key="M15" value="0.31523678060235344" />
+      <entry key="M30" value="0.5614595093168816" />
+      <entry key="H1" value="0.7493060184710126" />
+      <entry key="H2" value="0.865624640633001" />
+      <entry key="H4" value="0.9303895101692632" />
+      <entry key="D1" value="0.9880466898707493" />
+      <entry key="W1" value="0.9982835711237308" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.968242465516566E-21" />
+      <entry key="MS500" value="1.3604535366314337E-4" />
+      <entry key="S2" value="0.18366304054936103" />
+      <entry key="S5" value="0.8503472807222228" />
+      <entry key="S10" value="1.528115663422595" />
+      <entry key="S30" value="2.3665508014305803" />
+      <entry key="S60" value="2.6600212116892625" />
+      <entry key="M2" value="2.824200018571846" />
+      <entry key="M5" value="3.021754263092061" />
+      <entry key="M10" value="3.494275747623489" />
+      <entry key="M15" value="3.920958958283246" />
+      <entry key="M30" value="4.671762876268793" />
+      <entry key="H1" value="5.2415195767666205" />
+      <entry key="H2" value="5.5936465757399905" />
+      <entry key="H4" value="5.7895470172196" />
+      <entry key="D1" value="5.963868652255547" />
+      <entry key="W1" value="5.994811909882967" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EfODAEEdvZ07V3ni0jkVrOtdFB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Branger/Informatique/Licence1/Sae/sae2.03-programmation-d-un-serveur-web-configurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/Desktop/Cours/Réseau/ServeurWeb/sae2.03-programmation-d-un-serveur-web-configurable&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/OneDrive/Desktop/Cours/Réseau/ServeurWeb/sae2.03-programmation-d-un-serveur-web-configurable/src/src/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive\Desktop\Cours\Réseau\ServeurWeb\sae2.03-programmation-d-un-serveur-web-configurable" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,12 +146,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="edb3737a-a481-49fe-a9b7-6e212c3e537d" name="Changes" comment="" />
-      <created>1780927459379</created>
+      <changelist id="be07722a-c283-4668-a434-8a88c1e8b8c4" name="Changes" comment="" />
+      <created>1780566034524</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1780927459379</updated>
-      <workItem from="1780927460526" duration="27000" />
+      <updated>1780566034524</updated>
     </task>
     <servers />
   </component>
