@@ -1,0 +1,12 @@
+[Unit]
+Description=MyWeb - Serveur Web configurable SAE 2.03
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/%i/serveurWeb/scripts/start.sh
+ExecStop=/home/%i/serveurWeb/scripts/stop.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
